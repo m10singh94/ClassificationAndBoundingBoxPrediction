@@ -1,2 +1,2 @@
 # ClassificationAndBoundingBoxPrediction
-This repository classifies and image and tries to predict the bounding box for that image.
+This repository classifies an image and tries to predict the bounding box for that image.
